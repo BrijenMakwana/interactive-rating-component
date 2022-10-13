@@ -24,7 +24,7 @@
 
 ## Links
 
-- Live Site URL: [interactive-rating-component-brijen.vercel.app](interactive-rating-component-brijen.vercel.app)
+- Live Site URL: [https://interactive-rating-component-brijen.vercel.app](https://interactive-rating-component-brijen.vercel.app)
 
 ## Built with
 
